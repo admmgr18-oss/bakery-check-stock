@@ -2,7 +2,7 @@
   "id": "/stock-management/",
   "name": "Bakery Stock Check",
   "short_name": "Stock Check",
-  "start_url": "./",
+  "start_url": "/stock-bakery/",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
