@@ -1,4 +1,5 @@
 {
+  "id": "/stock-management/",
   "name": "Bakery Stock Check",
   "short_name": "Stock Check",
   "start_url": "./",
